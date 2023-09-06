@@ -13,7 +13,7 @@ updateView()
 function updateView() {
 let html = /*HTML*/ `
 <h1>Terje den Allvitende</h1>
-<img src="/img/terje.jpg">
+<img src="img/terje.jpg">
 <h3>Still spørsmål i feedback verktøyet:</h3>
 <input id="user-input" type="text">
 <button onclick="terjeAnswers()">Send</button>
