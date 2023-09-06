@@ -1,0 +1,13 @@
+img {
+    width: 400px;
+}
+
+input {
+    border: solid black 2px;
+    border-radius: 2px;
+    width: 100vw;
+}
+
+button {
+    font-weight: bold;
+}
